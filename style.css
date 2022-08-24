@@ -1,0 +1,36 @@
+body {
+	font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 1rem;
+	line-height: 1.5;
+	text-align: center;
+	color: #333;
+}
+.layer-primary {
+	background-color: #eeeeee;
+	margin: 30px 8px;
+	border-radius: 5px;
+	padding: 15px;
+}
+h1{
+	font-size: 4rem;
+}
+.layer-secondary {
+	background-color: white;
+	margin: 15px 15px;
+	padding: 15px;
+}
+img {
+	margin: 15px;
+}
+h3 {
+	margin: 20px;
+}
+li {
+	display: list-item;
+	text-align: left;
+	margin: 30px 30%;
+}
+.quote {
+	text-align: left;
+	margin: 50px 30%;
+}
